@@ -1,0 +1,6 @@
+{
+  "name": "Planetarium 3D & Edukasi Tata Surya",
+  "description": "Aplikasi edukasi interaktif 3D planetarium untuk menjelajahi sistem tata surya, orbit planet, dan belajar astronomi secara mendalam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
